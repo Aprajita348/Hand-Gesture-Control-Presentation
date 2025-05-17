@@ -15,7 +15,7 @@ folderPath = r"C:\Users\hp\Desktop\New folder"
 
 # camera setup
 
-cap= cv.VideoCapture(0)
+cap= cv.VideoCapture(1)
 
 cap.set(3,width)
 cap.set(4,height)
